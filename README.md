@@ -1,4 +1,7 @@
-# Hi I'm Sergey 👋
+<h1 align="center">Hi there, I'm Sergey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3 align="center">I has successfully completed the C++ Developer professional training course as offered by the Yandex Practicum.</h3>
+
 
 <!--
 **En0t1x/En0t1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
