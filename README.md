@@ -2,8 +2,8 @@
 
 <h3 align="center">I has successfully completed the C++ Developer professional training course as offered by the Yandex Practicum.</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=En0t1x&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=En0t1x&theme=algolia)
 <!--
 **En0t1x/En0t1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
