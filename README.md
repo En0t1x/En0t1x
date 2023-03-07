@@ -4,6 +4,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=En0t1x&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=En0t1x&theme=algolia)
+
+![Snake animation](https://github.com/En0t1x/En0t1x/blob/output/github-contribution-grid-snake.svg)
 <!--
 **En0t1x/En0t1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
